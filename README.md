@@ -121,7 +121,7 @@ __CSS__
 - style_partenaires.css (KUZZNIACK Cécile)
 ![](https://geps.dev/progress/10)
 - style_services.css (WITTLING Louis)
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/100)
 
 __JS__
 - app.js (BERKROUBER Benjamin)
